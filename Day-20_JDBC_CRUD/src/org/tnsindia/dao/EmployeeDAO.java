@@ -10,7 +10,7 @@ public class EmployeeDAO {
 	public Connection createConnection()
 	{
 		
-		String url="jdbc:mysql://localhost:3306//B35";
+		String url="jdbc:mysql://localhost:3306/B35";
 		String user="root";
 		String password="LohithGowda6361.";
 		
